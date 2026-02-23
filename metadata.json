@@ -1,0 +1,5 @@
+{
+  "name": "Mainframe Mentor",
+  "description": "AI assistant for mainframe developers (TANDEM, COBOL, GUARDIAN 90).",
+  "requestFramePermissions": ["camera"]
+}

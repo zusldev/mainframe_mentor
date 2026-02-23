@@ -1,0 +1,29 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Vercel
+.vercel/
+
+# Mac/Linux
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+.history/
+.npm/
+.yarn/

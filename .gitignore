@@ -27,3 +27,5 @@ Desktop.ini
 .history/
 .npm/
 .yarn/
+
+.vercel
